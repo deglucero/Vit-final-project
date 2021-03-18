@@ -1,0 +1,27 @@
+/* colors I'll use for this page */
+/* orange, white, darkblue, gold */
+
+h1.hero {
+    line-height: 28px;
+    margin: 20px;
+    display: inline-block;
+}
+p.hero {
+    line-height: 28px;
+    text-align: justify;
+    display: inline;
+}
+
+#nav{
+    position: absolute;
+    left: 0px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+#nav a {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
