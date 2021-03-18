@@ -24,4 +24,26 @@ p.hero {
     margin: 0;
     padding: 0;
     display: inline-block;
+    /* position: absolute; */
 }
+
+.box {
+    width: 100px;
+  height: 200px;
+  padding: 50px;
+  border: 1px solid red;
+}
+
+.checked {
+    color: orange;
+  }
+
+  .re-txt {
+    line-height: 28px;
+    margin: 20px;
+    display: inline-block;
+  }
+
+  .star-rate{
+      flex-shrink: initial;
+  }
